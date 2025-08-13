@@ -1,0 +1,23 @@
+Step-By-Step
+
+
+Step 1:
+
+ mkdir unit_test_demo1 && cd unit_test_demo1
+
+Step 2:
+
+vi setup_project.sh
+
+Step 3:
+
+Copy and past the setup_project.sh
+
+Step 4: 
+
+chmod +x setup_project.sh
+./setup_project.sh
+
+
+sbt test
+
